@@ -1,24 +1,20 @@
-# README
+# MadPhone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Madphone enables Facebook users to collaborate and write stories, one sentence at a time. The app combines the wordplay of Mad Libs and the game Telephone.
 
-Things you may want to cover:
+####Built with:
+Facebook API, JavaScript, React, Ruby, Rails, OmniAuth
 
-* Ruby version
+##Team Members
 
-* System dependencies
+####Parker Smathers
+GitHub: https://github.com/psmathers
 
-* Configuration
+####Rachael Miller
+GitHub: https://github.com/raemilla
 
-* Database creation
+####Shawn Paik
+GitHub: https://github.com/shawn-paik
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+####Melissa Rudofsky
+GitHub: https://github.com/mrudof

@@ -210,7 +210,6 @@ PLATFORMS
 DEPENDENCIES
   bootstrap (~> 4.0.0.alpha4)
   byebug
-  coffee-rails (~> 4.2)
   faker
   jbuilder (~> 2.5)
   jquery-rails
@@ -229,6 +228,9 @@ DEPENDENCIES
   tzinfo-data
   uglifier (>= 1.3.0)
   web-console
+
+RUBY VERSION
+   ruby 2.3.0p0
 
 BUNDLED WITH
    1.13.1

@@ -2,19 +2,19 @@
 
 Madphone enables Facebook users to collaborate and write stories, one sentence at a time. The app combines the wordplay of Mad Libs and the game Telephone.
 
-####Built with:
+#### Built with:
 Facebook API, JavaScript, React, Ruby, Rails, OmniAuth
 
-##Team Members
+## Team Members
 
-####Parker Smathers
+#### Parker Smathers
 GitHub: https://github.com/psmathers
 
-####Rachael Miller
+#### Rachael Miller
 GitHub: https://github.com/raemilla
 
-####Shawn Paik
+#### Shawn Paik
 GitHub: https://github.com/shawn-paik
 
-####Melissa Rudofsky
+#### Melissa Rudofsky
 GitHub: https://github.com/mrudof
